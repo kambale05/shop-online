@@ -1,0 +1,40 @@
+*{
+ 
+    background-image:url("img.jpg") ;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+background-color: skyblue;
+color: black white;
+text-align: left;
+border-radius: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.boot{
+    text-align: right;
+    width: px;
+    position: center;
+    float: right;
+}
+.box{
+    text-align: center;
+    border-radius: 25px;
+    color: transparent;
+    width:500px;
+    height: 50vh;
+    position: center;
+    backface-visibility: unset;
+}
+.boxx{
+    border-radius: 10px;
+    text-decoration:black;
+    background-color: transparent;
+    color: black;
+}
+
+
+
